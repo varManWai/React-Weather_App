@@ -5,6 +5,7 @@ This is a __*Weather Checker*__ which allow the user to __enter the city or coun
   * __HTML__
   * __CSS__ 
   * __React JS__
+  * __Vite JS__
   * __OpenWeatherAPI__ 
 
 # Example
