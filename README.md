@@ -1,5 +1,5 @@
 # Description
-This website is a __*Weather Checker*__ which allow the user to __enter the city or country__ to get the __Temperature and Weather currently__.
+This website is a __*Weather Checker*__ that allows the user to __enter the city or country__ to get the __Temperature and weather__.
 
 # This is created by 
   * __HTML__
